@@ -6,6 +6,7 @@ function Home() {
         <div className="container-item-side">
           <h1>One</h1>
         </div>
+
         <div className="container-item">
           <h1>TWO</h1>
         </div>
